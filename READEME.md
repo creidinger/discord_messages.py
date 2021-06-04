@@ -1,4 +1,4 @@
-# Python Discord
+# Discord Messages
 A python interface for the Discord API
 
 > This is in the early stages of development.
