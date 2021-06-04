@@ -6,6 +6,10 @@ A python interface for the Discord API
 > To send messages to a discrod channel, much in the wat Slack
 > dose.
 
+## installation
+
+## Usage
+
 ## How to find my token
 
 # How to find my client_id
